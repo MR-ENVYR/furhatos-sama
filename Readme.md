@@ -39,3 +39,6 @@ To use the code, you'll need to setup a few things. Following is an outline of t
 ## Demonstration
 A short video demonstration of the final prototype can be found [here](https://youtu.be/TrYep9gGgWQ).
 
+## Blog post
+A detailed blog about this project is available on my [personal blog!](https://mr-envyr.github.io/blogs/furhatos-sama.html)
+
